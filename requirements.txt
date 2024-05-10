@@ -1,0 +1,22 @@
+# Python 3.10.13
+huggingface-hub==0.22.0
+kaggle==1.6.12
+keras==3.1.1
+matplotlib==3.8.4
+matplotlib-inline==0.1.6
+numpy==1.26.4
+opendatasets==0.1.22
+pandas==2.2.1
+protobuf==4.25.3
+requests==2.31.0
+scikit-learn==1.4.1
+scipy==1.11.4
+seaborn==0.13.2
+tensorflow==2.16.1
+tokenizers==0.15.2
+torch==2.3.0
+torchvision==0.18.0
+tqdm==4.66.2
+transformers==4.39.1
+urllib3==2.2.1
+pycm==4.0
