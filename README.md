@@ -22,7 +22,7 @@ We introduce FourierKAN (FR-KAN), a variant of the promising MLP alternative cal
 
 ## Methodology Overview
 
-<img src="assets/method_overview.png" alt="Image Not Found"/>
+<img src="assets/method_overview.png" alt="Image Not Found" width="485"/>
 
 We propose feature-based fine-tuning of the FR-KAN classification head with different transformer-based pre-trained language models. 
 
@@ -32,11 +32,19 @@ We evaluated the performance of seven models on seven text classification datase
 
 <img src="assets/results_full.PNG" alt="Image Not Found" width="800"/>
 
+## Installation
+
+Create a virtual environment and install all the dependencies. Ensure that you have `Python 3.8` or higher installed.
+
+```
+pip install -r requirements.txt
+```
+
 ## Notebooks
-- The experiments on every model and dataset can be conducted following the notebooks in `notebooks_experiments`. 
-- To conduct ablations on the parameter count of the best-performing models and the impact of grid size, follow the notebooks in `notebooks_ablation`.
-- For overall result generation, follow `results.ipynb`.
-- To reproduce the visualizations in our work, follow `visualization.ipynb`. 
+- The experimental results on every model and dataset can be reproduced following the notebooks in `notebooks_experiments`. 
+- To conduct ablations on the parameter count of the best-performing models and the grid size, follow the notebooks in `notebooks_ablation`.
+- For overall result generation, run `results.ipynb`.
+- To reproduce the visualizations in our work, run `visualization.ipynb`. 
 
 ## Citation
 
