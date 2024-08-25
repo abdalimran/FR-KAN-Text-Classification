@@ -13,7 +13,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2408.08803-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2408.08803)
-![paper](https://img.shields.io/badge/Paper_Status-In--Review-yellow)
+![paper](https://img.shields.io/badge/Paper_Status-In--Progress-yellow)
 [![arXiv](https://img.shields.io/badge/Code-Repository-blue?logo=GitHub)](https://github.com/abdalimran/FR-KAN-Text-Classification)
 
 </div>
