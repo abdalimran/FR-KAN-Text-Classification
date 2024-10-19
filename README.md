@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 We evaluated the performance of seven models on seven text classification datasets based on accuracy and F1 score.
 
-<img src="assets/results_full.PNG" alt="Image Not Found" width="800"/>
+<img src="assets/kanresults.png" alt="Image Not Found" width="800"/>
 
 ## Citation
 
